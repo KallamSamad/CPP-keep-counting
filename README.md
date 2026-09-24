@@ -5,7 +5,7 @@ I translated what I did in c# to create a cpp program which does the same thing.
 # Features
 
 ## Random number generation:
--I used the rand() method to generate a value by finding the modulus of the rand() divided by the difference between my maximum and minimum constants, plus  1
+- I used the rand() method to generate a value by finding the modulus of the rand() divided by the difference between my maximum and minimum constants, plus  1
 - I then added the Minimum value to this
 - I then seeded the number generator once
 
