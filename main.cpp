@@ -41,5 +41,6 @@ int main()
 		value1 = ans;
 		
 	}
+	cout << "Your score is " << count;
 	return 0;
 }
